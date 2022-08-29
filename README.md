@@ -1,2 +1,2 @@
 # banestesLogo
-somente o logos do Banestes para uso interno
+somente as logos do Banestes para uso interno
